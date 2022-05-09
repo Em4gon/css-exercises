@@ -1,9 +1,0 @@
-.text{
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
-    font-size: larger;
-}
-.container > .text{
-    background-color: yellow;
-    color: red;
-    text-align: center;
-}
