@@ -16,6 +16,7 @@ body {
 }
 
 .modal {
+  justify-content: center;
   background: white;
   width: 480px;
   border-radius: 10px;
