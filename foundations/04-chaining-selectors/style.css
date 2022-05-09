@@ -1,0 +1,17 @@
+.avatar.proportioned{
+    height: auto;
+    width: 300px;
+}
+/* .span {
+    display: inline; /*the default for span 
+    width: 250px;
+    height: 250px;
+    padding: 5px;
+    border: 0px solid blue;
+    background-color: black;
+  } */
+.avatar.distorted{
+    height: 400px;
+    width: 200px;
+      
+}

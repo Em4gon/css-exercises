@@ -1,0 +1,25 @@
+@font-face {
+    font-family: fuente;
+    src: url(./fonts/ComicNeue-Bold.ttf);
+  }
+.font-a{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: large;
+}
+.red{
+    background-color: salmon;
+}
+.big{
+    font-size: 30px;
+}
+
+#white-blue{
+    background-color: white;
+    font-size: 42px;
+    color: blue;
+}
+#green-black{
+    background-color: rgb(58, 241, 58);
+    font-size: 28px;
+    font-weight: bold;
+}
